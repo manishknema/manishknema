@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vigyanbytes.com/assets/logo.webp" height="90" alt="VigyanBytes"/>
+<img src="logo.webp" height="90" alt="VigyanBytes"/>
 
 # Manish Nema
 
